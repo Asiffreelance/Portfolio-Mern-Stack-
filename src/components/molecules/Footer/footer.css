@@ -1,0 +1,21 @@
+a.text-xl.inline-block.mx-6.text-red {
+    color: #108a00;
+    font-weight: 900;
+    font-family: Cursive;
+}
+
+a.text-xl.inline-bloc.mx-6.text-green{
+    color: #1dbf73;
+    font-weight: 900;
+    font-family: Cursive;
+}
+a.text-xl.inline-bloc.mx-6.text-neutral{
+
+ color: #808080;
+font-weight: 900;
+font-family: Cursive;
+}
+
+h5{
+    margin-left: 400px;
+}
